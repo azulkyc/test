@@ -26,7 +26,7 @@
       "enable" : true,
       "interval" : 21600000
     }
-    "version":1;
+    "version" : 1
   },
   "music_tube_new_config" : {
     "app_update" : {
@@ -49,6 +49,6 @@
       "enable" : true,
       "interval" : 10800000
     }
-    "version":1;
+    "version" : 1
   }
 }
