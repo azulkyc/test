@@ -25,7 +25,7 @@
       "away_from_install" : 4000000,
       "enable" : true,
       "interval" : 21600000
-    }
+    },
     "version" : 1
   },
   "music_tube_new_config" : {
@@ -48,7 +48,7 @@
       "away_from_install" : 4000000,
       "enable" : true,
       "interval" : 10800000
-    }
+    },
     "version" : 1
   }
 }
